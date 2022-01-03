@@ -1,14 +1,14 @@
 {
-  "main.css": "/ProgrammingSpirit/Memories_project.git/static/css/main.61beeb94.chunk.css",
-  "main.js": "/ProgrammingSpirit/Memories_project.git/static/js/main.a2003da6.chunk.js",
-  "main.js.map": "/ProgrammingSpirit/Memories_project.git/static/js/main.a2003da6.chunk.js.map",
-  "static/js/1.e0c46f88.chunk.js": "/ProgrammingSpirit/Memories_project.git/static/js/1.e0c46f88.chunk.js",
-  "static/js/1.e0c46f88.chunk.js.map": "/ProgrammingSpirit/Memories_project.git/static/js/1.e0c46f88.chunk.js.map",
-  "runtime~main.js": "/ProgrammingSpirit/Memories_project.git/static/js/runtime~main.fa0b941c.js",
-  "runtime~main.js.map": "/ProgrammingSpirit/Memories_project.git/static/js/runtime~main.fa0b941c.js.map",
-  "static/media/memories.png": "/ProgrammingSpirit/Memories_project.git/static/media/memories.5c0c63fb.png",
-  "static/css/main.61beeb94.chunk.css.map": "/ProgrammingSpirit/Memories_project.git/static/css/main.61beeb94.chunk.css.map",
-  "index.html": "/ProgrammingSpirit/Memories_project.git/index.html",
-  "precache-manifest.115713d0c56aa55963d8d169502cbdf4.js": "/ProgrammingSpirit/Memories_project.git/precache-manifest.115713d0c56aa55963d8d169502cbdf4.js",
-  "service-worker.js": "/ProgrammingSpirit/Memories_project.git/service-worker.js"
+  "main.css": "/Memories_project/static/css/main.61beeb94.chunk.css",
+  "main.js": "/Memories_project/static/js/main.a2003da6.chunk.js",
+  "main.js.map": "/Memories_project/static/js/main.a2003da6.chunk.js.map",
+  "static/js/1.e0c46f88.chunk.js": "/Memories_project/static/js/1.e0c46f88.chunk.js",
+  "static/js/1.e0c46f88.chunk.js.map": "/Memories_project/static/js/1.e0c46f88.chunk.js.map",
+  "runtime~main.js": "/Memories_project/static/js/runtime~main.f1607472.js",
+  "runtime~main.js.map": "/Memories_project/static/js/runtime~main.f1607472.js.map",
+  "static/media/memories.png": "/Memories_project/static/media/memories.5c0c63fb.png",
+  "static/css/main.61beeb94.chunk.css.map": "/Memories_project/static/css/main.61beeb94.chunk.css.map",
+  "index.html": "/Memories_project/index.html",
+  "precache-manifest.5d5d005caa1fcffd03a6c19959b29823.js": "/Memories_project/precache-manifest.5d5d005caa1fcffd03a6c19959b29823.js",
+  "service-worker.js": "/Memories_project/service-worker.js"
 }

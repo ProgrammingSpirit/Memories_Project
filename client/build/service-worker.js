@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ProgrammingSpirit/Memories_project.git/precache-manifest.115713d0c56aa55963d8d169502cbdf4.js"
+  "/Memories_project/precache-manifest.5d5d005caa1fcffd03a6c19959b29823.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ProgrammingSpirit/Memories_project.git/index.html", {
+workbox.routing.registerNavigationRoute("/Memories_project/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
